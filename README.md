@@ -1,6 +1,6 @@
 # Misaka ECS (Entity Component System) 
 
-<img src="image.png" width="100%">
+<!-- <img src="image.png" width="100%"> -->
 
 Simple C++ Entity Component System. Required C++17 or higher. Inspired by LibGDX Ashley ECS.
 
