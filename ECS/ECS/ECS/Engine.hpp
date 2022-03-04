@@ -23,7 +23,7 @@ struct Engine
         return std::dynamic_pointer_cast<TSystem>(systems[typeid(TSystem)]);
     }
 
-    void Update(float delta) const
+    void Update(float delta)
     {
         for (const auto& [key, system] : systems)
         {
